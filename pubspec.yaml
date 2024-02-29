@@ -13,7 +13,7 @@ dependencies:
 dependency_overrides:
   pdf:
     git:
-      url: https://github.com/DavBfr/dart_pdf.git
+      url: https://github.com/raaja-guidely/dart_pdf.git
       path: pdf/
       ref: master
 dev_dependencies:
